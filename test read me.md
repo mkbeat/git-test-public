@@ -2,4 +2,4 @@
 
 ## 만나서 반갑습니다.
 
-![안녕] (www.youtube.com)
+[안녕] (www.youtube.com)
